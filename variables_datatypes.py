@@ -36,3 +36,10 @@ print(f"your guess of {guess} is wrong!")
 alphabet = "abcdefghijklmnoprstuwxyz"
 print(alphabet[1])
 
+#int before variables shows and change integer number from float number
+decimal = 12.7654
+integer = int(decimal)
+print(integer)
+
+
+
