@@ -31,3 +31,8 @@ print
 #using variables inside string throughout using 'f' before string
 guess = 8
 print(f"your guess of {guess} is wrong!")
+
+#show letter throughout index number
+alphabet = "abcdefghijklmnoprstuwxyz"
+print(alphabet[1])
+
