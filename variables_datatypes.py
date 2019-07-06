@@ -17,7 +17,7 @@ print(x)
 is_active = True
 game_over  = False
 
-#None representing nothing
+#None representing nothing | ist <class 'NoneType'>
 #>>> None
 #result = nothing
 
@@ -27,3 +27,7 @@ table = [1,2,3,]
 #dict {}
 student = {'name': 'John', 'age': 25, 'courses': ['Math', "CompSci"]}
 print
+
+#using variables inside string throughout using 'f' before string
+guess = 8
+print(f"your guess of {guess} is wrong!")
